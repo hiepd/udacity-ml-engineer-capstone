@@ -1,0 +1,9 @@
+torch
+torchvision
+matplotlib
+sklearn
+pandas
+seaborn
+opencv-contrib-python
+imutils
+xmltodict
